@@ -41,10 +41,10 @@ article {
 }
 
 .h {
-    width: 350px;
-    margin-left: auto;
-    margin-top: 7px;
-    margin-bottom: 20px;
+    width: 200px;
+    margin-left: 500px;
+    margin-top: 3px;
+    margin-bottom: 25px;
     border-bottom: 5px solid white;
     text-align: center;
 }
